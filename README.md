@@ -74,9 +74,3 @@ To automate the backup and cleanup process, you can schedule the script to run d
 
 - A `LastTaskResult` value of `0` indicates success.
 
-## Example Log Output
-
-2023-10-01 03:00:01 - Starting SQL database backup.
-2023-10-01 03:00:15 - Database backup completed successfully.
-2023-10-01 03:00:16 - Starting backup cleanup...
-2023-10-01 03:00:17 - Old backups deleted successfully.
